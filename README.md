@@ -3,7 +3,6 @@
 </p>
 
 # Student Management
- Gets instagram public username and returns usefull informations like profilepic(b64), video_urls etc.
 
 ## Introduction
  - this project was made as a practise for SUT(Sharif University of Technology) in C programming language, so it is not fully optimized yet and may be good for educational purpose not fot official use.
